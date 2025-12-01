@@ -58,5 +58,3 @@ All templates are fully responsive and optimized for real-world SaaS UI needs.
 
 ---
 
-## 📁 Folder Structure
-
